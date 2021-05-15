@@ -50,7 +50,7 @@ body {
 }
 .header {
     height: 94vh;
-    background-image: linear-gradient(to right bottom, #d0eccb6c,#50635ca6), url(img/1.jpg);
+    background-image: linear-gradient(to right bottom, #d0eccb6c,#50635ca6), url('img/1.jpg');
     background-size: cover;
     background-position: center;
     position: relative;
